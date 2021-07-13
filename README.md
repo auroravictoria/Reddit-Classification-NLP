@@ -5,7 +5,7 @@
 
 ### Problem Statement
 
-I was assigned to collect posts from two different subreddit topics and create a model that can accurately predict which subreddit topic a particular post is from. I selected the following subreddits: hiking and gardening. Using Data Acquisition, Natural Language Processing, and Classification, this report addresses the problem, **"What model best predicts the topic of a subreddit post?"**
+I collected posts from two different subreddit topics and created a model that can accurately predict which subreddit topic a particular post is from. I selected the following subreddits: hiking and gardening. Using Data Acquisition, Natural Language Processing, and Classification, this report addresses the problem, **"What model best predicts the topic of a subreddit post?"**
 
 
 ---
